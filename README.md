@@ -22,7 +22,7 @@ The CelebA dataset can be downloaded from the official website: https://www.kagg
 ![Dataset](images/dataset.png)
 
 ## Results
-Generated images will be stored in the `output/` directory. Below is an example of the generated images:
+Below is an example of the generated images afrer 106 epochs:
 
 <p align="center">
   <img src="images/initial.png" width="400">
